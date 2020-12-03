@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Overwatch",
+        "rating": 7,
+        "img": "https://bnetcmsus-a.akamaihd.net/cms/blog_thumbnail/u9/U9OR9LSH8R7U1590775227064.png"
+    },
+    {
+        "id": 1,
+        "name": "CoD Cold War",
+        "rating": 8,
+        "img": "https://image-cdn.essentiallysports.com/wp-content/uploads/20201007153914/BOCW-BETA1-TOUT.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Hades",
+        "rating": 10,
+        "img": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_960,h_540/Nintendo%20Switch/Games/Third%20Party/Hades/Video/posters/Hades_--_v1.0_Launch_Trailer"
+    },
+    {
+        "id": 3,
+        "name": "Divinity 2",
+        "rating": 10,
+        "img": "https://hb.imgix.net/9e911cddfad524ebaa499a49ebbd9512523aab60.jpg?auto=compress,format&fit=crop&h=353&w=616&s=0dc3a35319eb80f3c934b9ba96a6f950"
+    },
+    {
+        "id": 4,
+        "name": "Doom Eternal",
+        "rating": 8,
+        "img": "https://images.ctfassets.net/rporu91m20dc/2OJbYNR1jGuKc0akweMGQK/5ec7e4aaddb887a9478d5c412296f659/DOOM-Eternal_KeyArt_3_1920x1080.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Hearthstone",
+        "rating": 4,
+        "img": "https://bothgunsblazingblog.files.wordpress.com/2014/06/hearthstone.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Pokemon",
+        "rating": 7,
+        "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/Pok%C3%A9mon_Sword_and_Shield.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Dead by Daylight",
+        "rating": 7,
+        "img": "https://hb.imgix.net/372ca69b75119a0340cc2ba7712f47e3731c3eae.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=8fca3a4424ab273bbf8f4d1778d8110d"
+    },
+    {
+        "id": 8,
+        "name": "Risk of rain 2",
+        "rating": 9,
+        "img": "https://static.wikia.nocookie.net/riskofrain2_gamepedia_en/images/1/11/1.0_Update.jpg/revision/latest/scale-to-width-down/400?cb=20200811154248"
+    },
+    {
+        "id": 9,
+        "name": "League of Legends",
+        "rating": 7,
+        "img": "https://cdn1.dotesports.com/wp-content/uploads/2019/09/12195522/league-of-legends.jpg"
+    }
+]
